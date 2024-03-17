@@ -12,9 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=tkvitko&style=flat-square&color=blue" alt=""/>
 </div>
 ---
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
 </div>
 
 
