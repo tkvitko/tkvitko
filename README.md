@@ -1,5 +1,5 @@
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/taras-kvitko-36065071/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
