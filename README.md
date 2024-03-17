@@ -13,7 +13,7 @@
 </div>
 
 ---
-:hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40">
@@ -29,6 +29,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40">
 </div>
 
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=tkvitko&theme=dark&background=000000inkedin&logoColor=white&style=for-the-badge)](https://git.io/streak-stats)
 
 <!--
 **tkvitko/tkvitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
