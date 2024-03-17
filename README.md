@@ -17,6 +17,7 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="40" height="40">
