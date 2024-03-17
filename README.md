@@ -9,6 +9,7 @@
   <a href="https://career.habr.com/taraskvitko">
     <img src="https://img.shields.io/badge/CareerHabr-brown?logo=habr&logoColor=white&style=for-the-badge" alt="Habr Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=tkvitko&style=flat-square&color=blue" alt=""/>
 </div>
 
 
