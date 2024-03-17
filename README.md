@@ -14,7 +14,7 @@
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" width="40" height="40">
