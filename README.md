@@ -1,4 +1,4 @@
-### I'm Taras 👋
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/taras-kvitko-36065071/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -10,6 +10,11 @@
     <img src="https://img.shields.io/badge/CareerHabr-brown?logo=habr&logoColor=white&style=for-the-badge" alt="Habr Badge"/>
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=tkvitko&style=flat-square&color=blue" alt=""/>
+</div>
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 
 
