@@ -1,5 +1,5 @@
 ### I'm Taras 👋
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/taras-kvitko-36065071/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
@@ -8,7 +8,7 @@
   </a>
   <a href="https://career.habr.com/taraskvitko">
     <img src="https://img.shields.io/badge/CareerHabr-brown?logo=habr&logoColor=white&style=for-the-badge" alt="Habr Badge"/>
-  </a>
+  </a><br>
   <img src="https://komarev.com/ghpvc/?username=tkvitko&style=flat-square&color=blue" alt=""/>
 </div>
 
