@@ -1,4 +1,4 @@
-### Taras Kvitko 👋
+### I'm Taras Kvitko 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/taras-kvitko-36065071/">
