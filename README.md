@@ -21,6 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-plain.svg" width="40" height="40">
