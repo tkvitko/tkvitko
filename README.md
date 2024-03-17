@@ -21,6 +21,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40">
 </div>
 
 
