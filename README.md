@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Codewars-red?logo=codewars&logoColor=black&style=for-the-badge" alt="Codewars Badge"/>
   </a>
   <a href="https://career.habr.com/taraskvitko">
-    <img stc="https://img.shields.io/badge/Habr-brown?logo=habr&logoColor=white&style=for-the-badge" alt="Habr Badge"/>
+    <img src="https://img.shields.io/badge/Habr-brown?logo=habr&logoColor=white&style=for-the-badge" alt="Habr Badge"/>
   </a>
 </div>
 
