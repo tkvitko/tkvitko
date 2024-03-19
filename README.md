@@ -32,6 +32,11 @@
 </div>
 
 ---
+### My Projects :
+- Telegram bot: https://t.me/habit_trainer_bot
+- API wrapper: https://pypi.org/project/python-neaktor-api/
+
+---
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkvitko)](https://git.io/streak-stats)
 <br>
