@@ -43,6 +43,13 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkvitko&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+### Education :
+I'm studying now: <a href='https://netology.ru/programs/cpp-developer'>c++ developer</a>
+<br><br>
+Last read:
+- <a href='https://www.litres.ru/book/maksim-batyrev/45-tatuirovok-menedzhera-pravila-rossiyskogo-rukovoditelya-6187749'>45 татуировок менеджера</a>
+- <a href='https://www.smartyit.ru/docum/prog/sw_team_management.pdf'>Руководство командой разработчиков программного обеспечения</a>
 
 <!--
 **tkvitko/tkvitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
