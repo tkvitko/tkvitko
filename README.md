@@ -33,7 +33,8 @@
 
 ---
 ### My Projects :
-- Telegram bot: https://t.me/habit_trainer_bot
+- Telegram bot (own project): https://t.me/habit_trainer_bot
+- Telegram bot (commercial project): https://t.me/kamafisha_bot
 - API wrapper: https://pypi.org/project/python-neaktor-api/
 
 ---
