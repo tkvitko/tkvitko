@@ -36,6 +36,7 @@
 - Telegram bot (own project): https://t.me/habit_trainer_bot
 - Telegram bot (commercial project): https://t.me/kamafisha_bot
 - API wrapper: https://pypi.org/project/python-neaktor-api/
+- Game for blind persons (open source project): https://github.com/tkvitko/king_game (<a href='https://dialas.ru/2024/05/31/%d1%81%d1%80%d0%be%d1%87%d0%bd%d0%be-%d0%bd%d1%83%d0%b6%d0%b5%d0%bd-%d0%bf%d1%80%d0%b5%d0%bc%d1%8c%d0%b5%d1%80-%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d1%80/'>article</a>)
 
 ---
 ### :fire: My Stats :
