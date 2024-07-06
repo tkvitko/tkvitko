@@ -49,6 +49,7 @@
 I'm studying now: <a href='https://netology.ru/programs/cpp-developer'>c++ developer</a>
 <br><br>
 Last read:
+- <a href='https://www.litres.ru/book/beyder-d/chistyy-python-tonkosti-programmirovaniya-dlya-profi-pdf-epub-39123332/'>Чистый Python. Тонкости программирования для профи</a>
 - <a href='https://www.litres.ru/book/maksim-batyrev/45-tatuirovok-menedzhera-pravila-rossiyskogo-rukovoditelya-6187749'>45 татуировок менеджера</a>
 - <a href='https://www.smartyit.ru/docum/prog/sw_team_management.pdf'>Руководство командой разработчиков программного обеспечения</a>
 
