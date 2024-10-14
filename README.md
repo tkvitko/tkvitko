@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40">&nbsp;
-  <ing src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="40" height="40">&nbsp;
 </div>
 
 ---
